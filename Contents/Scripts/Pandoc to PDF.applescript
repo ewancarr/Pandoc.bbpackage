@@ -1,4 +1,4 @@
--- Pandoc to DOCX
+-- Pandoc to PDF
 -- Ewan Carr (ewancarr.me)
 
 local theText, theFile
